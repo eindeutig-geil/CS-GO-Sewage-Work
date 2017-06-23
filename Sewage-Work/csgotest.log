@@ -1,0 +1,2955 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.vmf
+Map revision 1
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (2311 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3 texinfos to 3
+Reduced 1 texdatas to 1 (28 bytes to 28)
+Writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.prt
+   4 portalclusters
+   4 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 16
+Average clusters visible: 4
+Building PAS...
+Average clusters audible: 4
+visdatasize:44  compressed from 64
+writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+16 faces
+29127 square feet [4194304.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+16 patches before subdivision
+8176 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 934776, max 264
+transfer lists:   7.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0034 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  6/8192           72/98304    ( 0.1%) 
+brushsides              36/65536         288/524288   ( 0.1%) 
+planes                  40/65536         800/1310720  ( 0.1%) 
+vertexes                35/65536         420/786432   ( 0.1%) 
+nodes                   27/65536         864/2097152  ( 0.0%) 
+texinfos                 3/12288         216/884736   ( 0.0%) 
+texdata                  1/2048           32/65536    ( 0.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   16/65536         896/3670016  ( 0.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces                6/65536         336/3670016  ( 0.0%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists          16/0              64/0        ( 0.0%) 
+leaves                  29/65536         928/2097152  ( 0.0%) 
+leaffaces               16/65536          32/131072   ( 0.0%) 
+leafbrushes             16/65536          32/131072   ( 0.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges               88/512000        352/2048000  ( 0.0%) 
+edges                   57/256000        228/1024000  ( 0.0%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      348544/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          44/16777216 ( 0.0%) 
+entdata               [variable]         471/393216   ( 0.1%) 
+LDR ambient table       29/65536         116/262144   ( 0.0%) 
+HDR ambient table       29/65536         116/262144   ( 0.0%) 
+LDR leaf ambient         4/65536         112/1835008  ( 0.0%) 
+HDR leaf ambient        29/65536         812/1835008  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74430/0        ( 0.0%) 
+physics               [variable]        2311/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 32
+Writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.vmf
+Map revision 2
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (2691 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 6 texinfos to 4
+Reduced 2 texdatas to 2 (37 bytes to 37)
+Writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.prt
+  16 portalclusters
+  32 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 224
+Average clusters visible: 14
+Building PAS...
+Average clusters audible: 16
+visdatasize:196  compressed from 256
+writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+64 faces
+73929 square feet [10645801.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+64 patches before subdivision
+1872 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1300, max 155
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0018 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  7/8192           84/98304    ( 0.1%) 
+brushsides              42/65536         336/524288   ( 0.1%) 
+planes                  52/65536        1040/1310720  ( 0.1%) 
+vertexes                93/65536        1116/786432   ( 0.1%) 
+nodes                   43/65536        1376/2097152  ( 0.1%) 
+texinfos                 4/12288         288/884736   ( 0.0%) 
+texdata                  2/2048           64/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   64/65536        3584/3670016  ( 0.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               12/65536         672/3670016  ( 0.0%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists          64/0             256/0        ( 0.0%) 
+leaves                  45/65536        1440/2097152  ( 0.1%) 
+leaffaces               84/65536         168/131072   ( 0.1%) 
+leafbrushes             20/65536          40/131072   ( 0.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges              320/512000       1280/2048000  ( 0.1%) 
+edges                  173/256000        692/1024000  ( 0.1%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              4/32768          40/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            48/65536          96/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      267512/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         196/16777216 ( 0.0%) 
+entdata               [variable]         469/393216   ( 0.1%) 
+LDR ambient table       45/65536         180/262144   ( 0.1%) 
+HDR ambient table       45/65536         180/262144   ( 0.1%) 
+LDR leaf ambient        16/65536         448/1835008  ( 0.0%) 
+HDR leaf ambient        45/65536        1260/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74430/0        ( 0.0%) 
+physics               [variable]        2691/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 144
+Writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.vmf
+Map revision 4
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7018 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 43 texinfos to 34
+Reduced 6 texdatas to 5 (172 bytes to 124)
+Writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.prt
+  94 portalclusters
+ 289 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 10 visible clusters (0.00%)
+Total clusters visible: 6540
+Average clusters visible: 69
+Building PAS...
+Average clusters audible: 94
+visdatasize:3025  compressed from 3008
+writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+238 faces
+88466 square feet [12739115.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+238 patches before subdivision
+4534 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 133154, max 165
+transfer lists:   1.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0031 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 18/8192          216/98304    ( 0.2%) 
+brushsides             147/65536        1176/524288   ( 0.2%) 
+planes                 228/65536        4560/1310720  ( 0.3%) 
+vertexes               328/65536        3936/786432   ( 0.5%) 
+nodes                  163/65536        5216/2097152  ( 0.2%) 
+texinfos                34/12288        2448/884736   ( 0.3%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  238/65536       13328/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               67/65536        3752/3670016  ( 0.1%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists         238/0             952/0        ( 0.0%) 
+leaves                 165/65536        5280/2097152  ( 0.3%) 
+leaffaces              314/65536         628/131072   ( 0.5%) 
+leafbrushes             68/65536         136/131072   ( 0.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             1360/512000       5440/2048000  ( 0.3%) 
+edges                  718/256000       2872/1024000  ( 0.3%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             18/32768         180/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           249/65536         498/131072   ( 0.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      337032/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        3025/16777216 ( 0.0%) 
+entdata               [variable]         471/393216   ( 0.1%) 
+LDR ambient table      165/65536         660/262144   ( 0.3%) 
+HDR ambient table      165/65536         660/262144   ( 0.3%) 
+LDR leaf ambient        94/65536        2632/1835008  ( 0.1%) 
+HDR leaf ambient       165/65536        4620/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149101/0        ( 0.0%) 
+physics               [variable]        7018/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 616
+Writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+2 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.vmf
+Map revision 1
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_counterterrorist (-1846.41 -2383.99 17.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (575 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3 texinfos to 3
+Reduced 1 texdatas to 1 (9 bytes to 9)
+Writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.prt
+LoadPortals: couldn't read c:\users\peer\desktop\sicherrung jan-maps\csgotest.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.vmf
+Map revision 2
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (2671 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3 texinfos to 3
+Reduced 1 texdatas to 1 (9 bytes to 9)
+Writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.prt
+  97 portalclusters
+ 193 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 7609
+Average clusters visible: 78
+Building PAS...
+Average clusters audible: 97
+visdatasize:3302  compressed from 3104
+writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+1573 faces
+1377849 square feet [198410304.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1573 patches before subdivision
+121589 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 44751562, max 1421
+transfer lists: 341.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1028 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  7/8192           84/98304    ( 0.1%) 
+brushsides              42/65536         336/524288   ( 0.1%) 
+planes                  68/65536        1360/1310720  ( 0.1%) 
+vertexes              1725/65536       20700/786432   ( 2.6%) 
+nodes                  263/65536        8416/2097152  ( 0.4%) 
+texinfos                 3/12288         216/884736   ( 0.0%) 
+texdata                  1/2048           32/65536    ( 0.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1573/65536       88088/3670016  ( 2.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               12/65536         672/3670016  ( 0.0%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists        1573/0            6292/0        ( 0.0%) 
+leaves                 265/65536        8480/2097152  ( 0.4%) 
+leaffaces             2221/65536        4442/131072   ( 3.4%) 
+leafbrushes            171/65536         342/131072   ( 0.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             6602/512000      26408/2048000  ( 1.3%) 
+edges                 3314/256000      13256/1024000  ( 1.3%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             29/32768         290/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           366/65536         732/131072   ( 0.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     6961476/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        3302/16777216 ( 0.0%) 
+entdata               [variable]         479/393216   ( 0.1%) 
+LDR ambient table      265/65536        1060/262144   ( 0.4%) 
+HDR ambient table      265/65536        1060/262144   ( 0.4%) 
+LDR leaf ambient        97/65536        2716/1835008  ( 0.1%) 
+HDR leaf ambient       265/65536        7420/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74430/0        ( 0.0%) 
+physics               [variable]        2671/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 3408
+Writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+21 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.vmf
+Map revision 4
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3251 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9 texinfos to 7
+Reduced 3 texdatas to 3 (60 bytes to 60)
+Writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.prt
+  97 portalclusters
+ 193 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 7609
+Average clusters visible: 78
+Building PAS...
+Average clusters audible: 97
+visdatasize:3302  compressed from 3104
+writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+696 faces
+1381461 square feet [198930400.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+696 patches before subdivision
+41148 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 41089, max 523
+transfer lists:   0.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0322 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                  8/8192           96/98304    ( 0.1%) 
+brushsides              48/65536         384/524288   ( 0.1%) 
+planes                  84/65536        1680/1310720  ( 0.1%) 
+vertexes               785/65536        9420/786432   ( 1.2%) 
+nodes                  269/65536        8608/2097152  ( 0.4%) 
+texinfos                 7/12288         504/884736   ( 0.1%) 
+texdata                  3/2048           96/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  696/65536       38976/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               18/65536        1008/3670016  ( 0.0%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists         696/0            2784/0        ( 0.0%) 
+leaves                 272/65536        8704/2097152  ( 0.4%) 
+leaffaces              764/65536        1528/131072   ( 1.2%) 
+leafbrushes            172/65536         344/131072   ( 0.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             2988/512000      11952/2048000  ( 0.6%) 
+edges                 1507/256000       6028/1024000  ( 0.6%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             33/32768         330/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           432/65536         864/131072   ( 0.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     2258172/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        3302/16777216 ( 0.0%) 
+entdata               [variable]         457/393216   ( 0.1%) 
+LDR ambient table      272/65536        1088/262144   ( 0.4%) 
+HDR ambient table      272/65536        1088/262144   ( 0.4%) 
+LDR leaf ambient       103/65536        2884/1835008  ( 0.2%) 
+HDR leaf ambient       272/65536        7616/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74430/0        ( 0.0%) 
+physics               [variable]        3251/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 1524
+Writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+4 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.vmf
+Map revision 4
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3251 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9 texinfos to 7
+Reduced 3 texdatas to 3 (60 bytes to 60)
+Writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.prt
+  97 portalclusters
+ 193 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 7609
+Average clusters visible: 78
+Building PAS...
+Average clusters audible: 97
+visdatasize:3302  compressed from 3104
+writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+696 faces
+1381461 square feet [198930400.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+696 patches before subdivision
+41148 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 41089, max 523
+transfer lists:   0.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0354 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                  8/8192           96/98304    ( 0.1%) 
+brushsides              48/65536         384/524288   ( 0.1%) 
+planes                  84/65536        1680/1310720  ( 0.1%) 
+vertexes               785/65536        9420/786432   ( 1.2%) 
+nodes                  269/65536        8608/2097152  ( 0.4%) 
+texinfos                 7/12288         504/884736   ( 0.1%) 
+texdata                  3/2048           96/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  696/65536       38976/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               18/65536        1008/3670016  ( 0.0%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists         696/0            2784/0        ( 0.0%) 
+leaves                 272/65536        8704/2097152  ( 0.4%) 
+leaffaces              764/65536        1528/131072   ( 1.2%) 
+leafbrushes            172/65536         344/131072   ( 0.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             2988/512000      11952/2048000  ( 0.6%) 
+edges                 1507/256000       6028/1024000  ( 0.6%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             33/32768         330/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           432/65536         864/131072   ( 0.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     2258172/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        3302/16777216 ( 0.0%) 
+entdata               [variable]         457/393216   ( 0.1%) 
+LDR ambient table      272/65536        1088/262144   ( 0.4%) 
+HDR ambient table      272/65536        1088/262144   ( 0.4%) 
+LDR leaf ambient       103/65536        2884/1835008  ( 0.2%) 
+HDR leaf ambient       272/65536        7616/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74430/0        ( 0.0%) 
+physics               [variable]        3251/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 1524
+Writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+4 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.vmf
+Map revision 9
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7895 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 24 texinfos to 21
+Reduced 3 texdatas to 3 (60 bytes to 60)
+Writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.prt
+ 121 portalclusters
+ 350 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 4 visible clusters (0.00%)
+Total clusters visible: 11723
+Average clusters visible: 96
+Building PAS...
+Average clusters audible: 121
+visdatasize:4846  compressed from 3872
+writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+553 faces
+852307 square feet [122732280.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+553 patches before subdivision
+28735 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 861351, max 361
+transfer lists:   6.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0194 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 20/8192          240/98304    ( 0.2%) 
+brushsides             120/65536         960/524288   ( 0.2%) 
+planes                 144/65536        2880/1310720  ( 0.2%) 
+vertexes               743/65536        8916/786432   ( 1.1%) 
+nodes                  305/65536        9760/2097152  ( 0.5%) 
+texinfos                21/12288        1512/884736   ( 0.2%) 
+texdata                  3/2048           96/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  553/65536       30968/3670016  ( 0.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               72/65536        4032/3670016  ( 0.1%) 
+facebrushes              6/0              12/0        ( 0.0%) 
+facebrushlists         553/0            2212/0        ( 0.0%) 
+leaves                 309/65536        9888/2097152  ( 0.5%) 
+leaffaces              602/65536        1204/131072   ( 0.9%) 
+leafbrushes            155/65536         310/131072   ( 0.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             2814/512000      11256/2048000  ( 0.5%) 
+edges                 1449/256000       5796/1024000  ( 0.6%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             84/32768         840/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1032/65536        2064/131072   ( 1.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1276860/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        4846/16777216 ( 0.0%) 
+entdata               [variable]         535/393216   ( 0.1%) 
+LDR ambient table      309/65536        1236/262144   ( 0.5%) 
+HDR ambient table      309/65536        1236/262144   ( 0.5%) 
+LDR leaf ambient       133/65536        3724/1835008  ( 0.2%) 
+HDR leaf ambient       309/65536        8652/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74430/0        ( 0.0%) 
+physics               [variable]        7895/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 1420
+Writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+4 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.vmf
+Map revision 20
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (13143 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 54 texinfos to 50
+Reduced 3 texdatas to 3 (60 bytes to 60)
+Writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.prt
+ 188 portalclusters
+ 596 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 44 visible clusters (0.00%)
+Total clusters visible: 26610
+Average clusters visible: 141
+Building PAS...
+Average clusters audible: 188
+visdatasize:10586  compressed from 9024
+writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+653 faces
+819996 square feet [118079504.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+653 patches before subdivision
+25579 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 999510, max 357
+transfer lists:   7.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0201 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 34/8192          408/98304    ( 0.4%) 
+brushsides             206/65536        1648/524288   ( 0.3%) 
+planes                 232/65536        4640/1310720  ( 0.4%) 
+vertexes               908/65536       10896/786432   ( 1.4%) 
+nodes                  404/65536       12928/2097152  ( 0.6%) 
+texinfos                50/12288        3600/884736   ( 0.4%) 
+texdata                  3/2048           96/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  653/65536       36568/3670016  ( 1.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              137/65536        7672/3670016  ( 0.2%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists         653/0            2612/0        ( 0.0%) 
+leaves                 408/65536       13056/2097152  ( 0.6%) 
+leaffaces              716/65536        1432/131072   ( 1.1%) 
+leafbrushes            191/65536         382/131072   ( 0.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3574/512000      14296/2048000  ( 0.7%) 
+edges                 1857/256000       7428/1024000  ( 0.7%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             93/32768         930/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1194/65536        2388/131072   ( 1.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1202784/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       10586/16777216 ( 0.1%) 
+entdata               [variable]         542/393216   ( 0.1%) 
+LDR ambient table      408/65536        1632/262144   ( 0.6%) 
+HDR ambient table      408/65536        1632/262144   ( 0.6%) 
+LDR leaf ambient       200/65536        5600/1835008  ( 0.3%) 
+HDR leaf ambient       408/65536       11424/1835008  ( 0.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74430/0        ( 0.0%) 
+physics               [variable]       13143/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 1722
+Writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.vmf
+Map revision 29
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (16377 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 74 texinfos to 67
+Reduced 5 texdatas to 5 (110 bytes to 110)
+Writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.prt
+ 211 portalclusters
+ 657 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 73 visible clusters (0.00%)
+Total clusters visible: 29738
+Average clusters visible: 140
+Building PAS...
+Average clusters audible: 211
+visdatasize:13222  compressed from 13504
+writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+735 faces
+822826 square feet [118487032.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+735 patches before subdivision
+26045 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1006366, max 352
+transfer lists:   7.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0208 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 43/8192          516/98304    ( 0.5%) 
+brushsides             262/65536        2096/524288   ( 0.4%) 
+planes                 272/65536        5440/1310720  ( 0.4%) 
+vertexes              1047/65536       12564/786432   ( 1.6%) 
+nodes                  456/65536       14592/2097152  ( 0.7%) 
+texinfos                67/12288        4824/884736   ( 0.5%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  735/65536       41160/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              168/65536        9408/3670016  ( 0.3%) 
+facebrushes              4/0               8/0        ( 0.0%) 
+facebrushlists         735/0            2940/0        ( 0.0%) 
+leaves                 460/65536       14720/2097152  ( 0.7%) 
+leaffaces              797/65536        1594/131072   ( 1.2%) 
+leafbrushes            231/65536         462/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             4085/512000      16340/2048000  ( 0.8%) 
+edges                 2142/256000       8568/1024000  ( 0.8%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            100/32768        1000/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1320/65536        2640/131072   ( 2.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1237380/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       13222/16777216 ( 0.1%) 
+entdata               [variable]         539/393216   ( 0.1%) 
+LDR ambient table      460/65536        1840/262144   ( 0.7%) 
+HDR ambient table      460/65536        1840/262144   ( 0.7%) 
+LDR leaf ambient       223/65536        6244/1835008  ( 0.3%) 
+HDR leaf ambient       460/65536       12880/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74430/0        ( 0.0%) 
+physics               [variable]       16377/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 1946
+Writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.vmf
+Map revision 30
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (16377 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 74 texinfos to 67
+Reduced 5 texdatas to 5 (110 bytes to 110)
+Writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.prt
+ 211 portalclusters
+ 657 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 73 visible clusters (0.00%)
+Total clusters visible: 29738
+Average clusters visible: 140
+Building PAS...
+Average clusters audible: 211
+visdatasize:13222  compressed from 13504
+writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+735 faces
+822826 square feet [118487032.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+735 patches before subdivision
+26045 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1006366, max 352
+transfer lists:   7.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0197 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 43/8192          516/98304    ( 0.5%) 
+brushsides             262/65536        2096/524288   ( 0.4%) 
+planes                 272/65536        5440/1310720  ( 0.4%) 
+vertexes              1047/65536       12564/786432   ( 1.6%) 
+nodes                  456/65536       14592/2097152  ( 0.7%) 
+texinfos                67/12288        4824/884736   ( 0.5%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  735/65536       41160/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              168/65536        9408/3670016  ( 0.3%) 
+facebrushes              4/0               8/0        ( 0.0%) 
+facebrushlists         735/0            2940/0        ( 0.0%) 
+leaves                 460/65536       14720/2097152  ( 0.7%) 
+leaffaces              797/65536        1594/131072   ( 1.2%) 
+leafbrushes            231/65536         462/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             4085/512000      16340/2048000  ( 0.8%) 
+edges                 2142/256000       8568/1024000  ( 0.8%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            100/32768        1000/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1320/65536        2640/131072   ( 2.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1237380/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       13222/16777216 ( 0.1%) 
+entdata               [variable]         658/393216   ( 0.2%) 
+LDR ambient table      460/65536        1840/262144   ( 0.7%) 
+HDR ambient table      460/65536        1840/262144   ( 0.7%) 
+LDR leaf ambient       223/65536        6244/1835008  ( 0.3%) 
+HDR leaf ambient       460/65536       12880/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74430/0        ( 0.0%) 
+physics               [variable]       16377/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 1946
+Writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.vmf
+Map revision 31
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (16932 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 77 texinfos to 70
+Reduced 5 texdatas to 5 (110 bytes to 110)
+Writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.prt
+ 211 portalclusters
+ 657 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 73 visible clusters (0.00%)
+Total clusters visible: 29738
+Average clusters visible: 140
+Building PAS...
+Average clusters audible: 211
+visdatasize:13222  compressed from 13504
+writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+741 faces
+824327 square feet [118703184.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+741 patches before subdivision
+26051 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1006908, max 352
+transfer lists:   7.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0212 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                 44/8192          528/98304    ( 0.5%) 
+brushsides             268/65536        2144/524288   ( 0.4%) 
+planes                 280/65536        5600/1310720  ( 0.4%) 
+vertexes              1055/65536       12660/786432   ( 1.6%) 
+nodes                  462/65536       14784/2097152  ( 0.7%) 
+texinfos                70/12288        5040/884736   ( 0.6%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  741/65536       41496/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              174/65536        9744/3670016  ( 0.3%) 
+facebrushes              4/0               8/0        ( 0.0%) 
+facebrushlists         741/0            2964/0        ( 0.0%) 
+leaves                 467/65536       14944/2097152  ( 0.7%) 
+leaffaces              803/65536        1606/131072   ( 1.2%) 
+leafbrushes            232/65536         464/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             4133/512000      16532/2048000  ( 0.8%) 
+edges                 2166/256000       8664/1024000  ( 0.8%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            100/32768        1000/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1320/65536        2640/131072   ( 2.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1237380/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       13222/16777216 ( 0.1%) 
+entdata               [variable]        3207/393216   ( 0.8%) 
+LDR ambient table      467/65536        1868/262144   ( 0.7%) 
+HDR ambient table      467/65536        1868/262144   ( 0.7%) 
+LDR leaf ambient       229/65536        6412/1835008  ( 0.3%) 
+HDR leaf ambient       467/65536       13076/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74430/0        ( 0.0%) 
+physics               [variable]       16932/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 1958
+Writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.vmf
+Map revision 32
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (17487 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 77 texinfos to 70
+Reduced 5 texdatas to 5 (110 bytes to 110)
+Writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.prt
+ 211 portalclusters
+ 657 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 73 visible clusters (0.00%)
+Total clusters visible: 29738
+Average clusters visible: 140
+Building PAS...
+Average clusters audible: 211
+visdatasize:13222  compressed from 13504
+writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+747 faces
+825946 square feet [118936240.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+747 patches before subdivision
+26057 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1007500, max 352
+transfer lists:   7.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0234 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                 45/8192          540/98304    ( 0.5%) 
+brushsides             274/65536        2192/524288   ( 0.4%) 
+planes                 290/65536        5800/1310720  ( 0.4%) 
+vertexes              1063/65536       12756/786432   ( 1.6%) 
+nodes                  468/65536       14976/2097152  ( 0.7%) 
+texinfos                70/12288        5040/884736   ( 0.6%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  747/65536       41832/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              180/65536       10080/3670016  ( 0.3%) 
+facebrushes              4/0               8/0        ( 0.0%) 
+facebrushlists         747/0            2988/0        ( 0.0%) 
+leaves                 474/65536       15168/2097152  ( 0.7%) 
+leaffaces              809/65536        1618/131072   ( 1.2%) 
+leafbrushes            233/65536         466/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             4181/512000      16724/2048000  ( 0.8%) 
+edges                 2190/256000       8760/1024000  ( 0.9%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            100/32768        1000/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1320/65536        2640/131072   ( 2.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1237380/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       13222/16777216 ( 0.1%) 
+entdata               [variable]        3283/393216   ( 0.8%) 
+LDR ambient table      474/65536        1896/262144   ( 0.7%) 
+HDR ambient table      474/65536        1896/262144   ( 0.7%) 
+LDR leaf ambient       235/65536        6580/1835008  ( 0.4%) 
+HDR leaf ambient       474/65536       13272/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74430/0        ( 0.0%) 
+physics               [variable]       17487/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 1970
+Writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.vmf
+Map revision 33
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (17487 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 77 texinfos to 70
+Reduced 5 texdatas to 5 (110 bytes to 110)
+Writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.prt
+ 211 portalclusters
+ 657 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 73 visible clusters (0.00%)
+Total clusters visible: 29738
+Average clusters visible: 140
+Building PAS...
+Average clusters audible: 211
+visdatasize:13222  compressed from 13504
+writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+747 faces
+825946 square feet [118936240.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+747 patches before subdivision
+26057 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1007500, max 352
+transfer lists:   7.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0262 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                 45/8192          540/98304    ( 0.5%) 
+brushsides             274/65536        2192/524288   ( 0.4%) 
+planes                 290/65536        5800/1310720  ( 0.4%) 
+vertexes              1063/65536       12756/786432   ( 1.6%) 
+nodes                  468/65536       14976/2097152  ( 0.7%) 
+texinfos                70/12288        5040/884736   ( 0.6%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  747/65536       41832/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              180/65536       10080/3670016  ( 0.3%) 
+facebrushes              4/0               8/0        ( 0.0%) 
+facebrushlists         747/0            2988/0        ( 0.0%) 
+leaves                 474/65536       15168/2097152  ( 0.7%) 
+leaffaces              809/65536        1618/131072   ( 1.2%) 
+leafbrushes            233/65536         466/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             4181/512000      16724/2048000  ( 0.8%) 
+edges                 2190/256000       8760/1024000  ( 0.9%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            100/32768        1000/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1320/65536        2640/131072   ( 2.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1237380/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       13222/16777216 ( 0.1%) 
+entdata               [variable]        2009/393216   ( 0.5%) 
+LDR ambient table      474/65536        1896/262144   ( 0.7%) 
+HDR ambient table      474/65536        1896/262144   ( 0.7%) 
+LDR leaf ambient       235/65536        6580/1835008  ( 0.4%) 
+HDR leaf ambient       474/65536       13272/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74430/0        ( 0.0%) 
+physics               [variable]       17487/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 1970
+Writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.vmf
+Map revision 33
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (17487 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 77 texinfos to 70
+Reduced 5 texdatas to 5 (110 bytes to 110)
+Writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.prt
+ 211 portalclusters
+ 657 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 73 visible clusters (0.00%)
+Total clusters visible: 29738
+Average clusters visible: 140
+Building PAS...
+Average clusters audible: 211
+visdatasize:13222  compressed from 13504
+writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+747 faces
+825946 square feet [118936240.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+747 patches before subdivision
+26057 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1007500, max 352
+transfer lists:   7.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0201 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                 45/8192          540/98304    ( 0.5%) 
+brushsides             274/65536        2192/524288   ( 0.4%) 
+planes                 290/65536        5800/1310720  ( 0.4%) 
+vertexes              1063/65536       12756/786432   ( 1.6%) 
+nodes                  468/65536       14976/2097152  ( 0.7%) 
+texinfos                70/12288        5040/884736   ( 0.6%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  747/65536       41832/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              180/65536       10080/3670016  ( 0.3%) 
+facebrushes              4/0               8/0        ( 0.0%) 
+facebrushlists         747/0            2988/0        ( 0.0%) 
+leaves                 474/65536       15168/2097152  ( 0.7%) 
+leaffaces              809/65536        1618/131072   ( 1.2%) 
+leafbrushes            233/65536         466/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             4181/512000      16724/2048000  ( 0.8%) 
+edges                 2190/256000       8760/1024000  ( 0.9%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            100/32768        1000/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1320/65536        2640/131072   ( 2.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1237380/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       13222/16777216 ( 0.1%) 
+entdata               [variable]        2009/393216   ( 0.5%) 
+LDR ambient table      474/65536        1896/262144   ( 0.7%) 
+HDR ambient table      474/65536        1896/262144   ( 0.7%) 
+LDR leaf ambient       235/65536        6580/1835008  ( 0.4%) 
+HDR leaf ambient       474/65536       13272/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74430/0        ( 0.0%) 
+physics               [variable]       17487/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 1970
+Writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.vmf
+Map revision 34
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (17487 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 77 texinfos to 70
+Reduced 5 texdatas to 5 (110 bytes to 110)
+Writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.prt
+ 211 portalclusters
+ 657 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 73 visible clusters (0.00%)
+Total clusters visible: 29738
+Average clusters visible: 140
+Building PAS...
+Average clusters audible: 211
+visdatasize:13222  compressed from 13504
+writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+747 faces
+825946 square feet [118936240.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+747 patches before subdivision
+26057 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1007500, max 352
+transfer lists:   7.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0211 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                 45/8192          540/98304    ( 0.5%) 
+brushsides             274/65536        2192/524288   ( 0.4%) 
+planes                 290/65536        5800/1310720  ( 0.4%) 
+vertexes              1063/65536       12756/786432   ( 1.6%) 
+nodes                  468/65536       14976/2097152  ( 0.7%) 
+texinfos                70/12288        5040/884736   ( 0.6%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  747/65536       41832/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              180/65536       10080/3670016  ( 0.3%) 
+facebrushes              4/0               8/0        ( 0.0%) 
+facebrushlists         747/0            2988/0        ( 0.0%) 
+leaves                 474/65536       15168/2097152  ( 0.7%) 
+leaffaces              809/65536        1618/131072   ( 1.2%) 
+leafbrushes            233/65536         466/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             4181/512000      16724/2048000  ( 0.8%) 
+edges                 2190/256000       8760/1024000  ( 0.9%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            100/32768        1000/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1320/65536        2640/131072   ( 2.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1237380/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       13222/16777216 ( 0.1%) 
+entdata               [variable]        3283/393216   ( 0.8%) 
+LDR ambient table      474/65536        1896/262144   ( 0.7%) 
+HDR ambient table      474/65536        1896/262144   ( 0.7%) 
+LDR leaf ambient       235/65536        6580/1835008  ( 0.4%) 
+HDR leaf ambient       474/65536       13272/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74430/0        ( 0.0%) 
+physics               [variable]       17487/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 1970
+Writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.vmf
+Map revision 34
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (17487 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 77 texinfos to 70
+Reduced 5 texdatas to 5 (110 bytes to 110)
+Writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.prt
+ 211 portalclusters
+ 657 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 73 visible clusters (0.00%)
+Total clusters visible: 29738
+Average clusters visible: 140
+Building PAS...
+Average clusters audible: 211
+visdatasize:13222  compressed from 13504
+writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+747 faces
+825946 square feet [118936240.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+747 patches before subdivision
+26057 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1007500, max 352
+transfer lists:   7.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0204 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                 45/8192          540/98304    ( 0.5%) 
+brushsides             274/65536        2192/524288   ( 0.4%) 
+planes                 290/65536        5800/1310720  ( 0.4%) 
+vertexes              1063/65536       12756/786432   ( 1.6%) 
+nodes                  468/65536       14976/2097152  ( 0.7%) 
+texinfos                70/12288        5040/884736   ( 0.6%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  747/65536       41832/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              180/65536       10080/3670016  ( 0.3%) 
+facebrushes              4/0               8/0        ( 0.0%) 
+facebrushlists         747/0            2988/0        ( 0.0%) 
+leaves                 474/65536       15168/2097152  ( 0.7%) 
+leaffaces              809/65536        1618/131072   ( 1.2%) 
+leafbrushes            233/65536         466/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             4181/512000      16724/2048000  ( 0.8%) 
+edges                 2190/256000       8760/1024000  ( 0.9%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            100/32768        1000/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1320/65536        2640/131072   ( 2.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1237380/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       13222/16777216 ( 0.1%) 
+entdata               [variable]        3283/393216   ( 0.8%) 
+LDR ambient table      474/65536        1896/262144   ( 0.7%) 
+HDR ambient table      474/65536        1896/262144   ( 0.7%) 
+LDR leaf ambient       235/65536        6580/1835008  ( 0.4%) 
+HDR leaf ambient       474/65536       13272/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74430/0        ( 0.0%) 
+physics               [variable]       17487/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 1970
+Writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.vmf
+Map revision 34
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (17487 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 77 texinfos to 70
+Reduced 5 texdatas to 5 (110 bytes to 110)
+Writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.prt
+ 211 portalclusters
+ 657 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 73 visible clusters (0.00%)
+Total clusters visible: 29738
+Average clusters visible: 140
+Building PAS...
+Average clusters audible: 211
+visdatasize:13222  compressed from 13504
+writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+747 faces
+825946 square feet [118936240.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+747 patches before subdivision
+26057 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1007500, max 352
+transfer lists:   7.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0214 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                 45/8192          540/98304    ( 0.5%) 
+brushsides             274/65536        2192/524288   ( 0.4%) 
+planes                 290/65536        5800/1310720  ( 0.4%) 
+vertexes              1063/65536       12756/786432   ( 1.6%) 
+nodes                  468/65536       14976/2097152  ( 0.7%) 
+texinfos                70/12288        5040/884736   ( 0.6%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  747/65536       41832/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              180/65536       10080/3670016  ( 0.3%) 
+facebrushes              4/0               8/0        ( 0.0%) 
+facebrushlists         747/0            2988/0        ( 0.0%) 
+leaves                 474/65536       15168/2097152  ( 0.7%) 
+leaffaces              809/65536        1618/131072   ( 1.2%) 
+leafbrushes            233/65536         466/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             4181/512000      16724/2048000  ( 0.8%) 
+edges                 2190/256000       8760/1024000  ( 0.9%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            100/32768        1000/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1320/65536        2640/131072   ( 2.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1237380/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       13222/16777216 ( 0.1%) 
+entdata               [variable]        3283/393216   ( 0.8%) 
+LDR ambient table      474/65536        1896/262144   ( 0.7%) 
+HDR ambient table      474/65536        1896/262144   ( 0.7%) 
+LDR leaf ambient       235/65536        6580/1835008  ( 0.4%) 
+HDR leaf ambient       474/65536       13272/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74430/0        ( 0.0%) 
+physics               [variable]       17487/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 1970
+Writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.vmf
+Map revision 36
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (17487 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 77 texinfos to 70
+Reduced 5 texdatas to 5 (110 bytes to 110)
+Writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.prt
+ 211 portalclusters
+ 657 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 73 visible clusters (0.00%)
+Total clusters visible: 29738
+Average clusters visible: 140
+Building PAS...
+Average clusters audible: 211
+visdatasize:13222  compressed from 13504
+writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+747 faces
+825946 square feet [118936240.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+747 patches before subdivision
+26057 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1007500, max 352
+transfer lists:   7.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0203 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                 45/8192          540/98304    ( 0.5%) 
+brushsides             274/65536        2192/524288   ( 0.4%) 
+planes                 290/65536        5800/1310720  ( 0.4%) 
+vertexes              1063/65536       12756/786432   ( 1.6%) 
+nodes                  468/65536       14976/2097152  ( 0.7%) 
+texinfos                70/12288        5040/884736   ( 0.6%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  747/65536       41832/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              180/65536       10080/3670016  ( 0.3%) 
+facebrushes              4/0               8/0        ( 0.0%) 
+facebrushlists         747/0            2988/0        ( 0.0%) 
+leaves                 474/65536       15168/2097152  ( 0.7%) 
+leaffaces              809/65536        1618/131072   ( 1.2%) 
+leafbrushes            233/65536         466/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             4181/512000      16724/2048000  ( 0.8%) 
+edges                 2190/256000       8760/1024000  ( 0.9%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            100/32768        1000/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1320/65536        2640/131072   ( 2.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1237380/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       13222/16777216 ( 0.1%) 
+entdata               [variable]         816/393216   ( 0.2%) 
+LDR ambient table      474/65536        1896/262144   ( 0.7%) 
+HDR ambient table      474/65536        1896/262144   ( 0.7%) 
+LDR leaf ambient       235/65536        6580/1835008  ( 0.4%) 
+HDR leaf ambient       474/65536       13272/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74430/0        ( 0.0%) 
+physics               [variable]       17487/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 1970
+Writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.vmf
+Map revision 49
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (23064 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 120 texinfos to 111
+Reduced 6 texdatas to 6 (126 bytes to 126)
+Writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.prt
+ 250 portalclusters
+ 777 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 100 visible clusters (0.00%)
+Total clusters visible: 36548
+Average clusters visible: 146
+Building PAS...
+Average clusters audible: 250
+visdatasize:18226  compressed from 16000
+writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+879 faces
+843091 square feet [121405168.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+879 patches before subdivision
+28351 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1127184, max 352
+transfer lists:   8.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0194 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                 60/8192          720/98304    ( 0.7%) 
+brushsides             364/65536        2912/524288   ( 0.6%) 
+planes                 348/65536        6960/1310720  ( 0.5%) 
+vertexes              1266/65536       15192/786432   ( 1.9%) 
+nodes                  557/65536       17824/2097152  ( 0.8%) 
+texinfos               111/12288        7992/884736   ( 0.9%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  879/65536       49224/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              237/65536       13272/3670016  ( 0.4%) 
+facebrushes              4/0               8/0        ( 0.0%) 
+facebrushlists         879/0            3516/0        ( 0.0%) 
+leaves                 563/65536       18016/2097152  ( 0.9%) 
+leaffaces              953/65536        1906/131072   ( 1.5%) 
+leafbrushes            289/65536         578/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5069/512000      20276/2048000  ( 1.0%) 
+edges                 2680/256000      10720/1024000  ( 1.0%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            120/32768        1200/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1620/65536        3240/131072   ( 2.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1361684/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       18226/16777216 ( 0.1%) 
+entdata               [variable]         926/393216   ( 0.2%) 
+LDR ambient table      563/65536        2252/262144   ( 0.9%) 
+HDR ambient table      563/65536        2252/262144   ( 0.9%) 
+LDR leaf ambient       274/65536        7672/1835008  ( 0.4%) 
+HDR leaf ambient       563/65536       15764/1835008  ( 0.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74430/0        ( 0.0%) 
+physics               [variable]       23064/4194304  ( 0.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 2366
+Writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+6 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.vmf
+Map revision 53
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (23567 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 123 texinfos to 112
+Reduced 6 texdatas to 6 (126 bytes to 126)
+Writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.prt
+ 245 portalclusters
+ 751 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 103 visible clusters (0.00%)
+Total clusters visible: 34142
+Average clusters visible: 139
+Building PAS...
+Average clusters audible: 244
+visdatasize:17256  compressed from 15680
+writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+891 faces
+845706 square feet [121781744.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+891 patches before subdivision
+28945 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1196749, max 352
+transfer lists:   9.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(40468, 14726, 4755)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(16338, 2164, 226)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(7241, 349, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3504, 62, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1777, 11, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(952, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(534, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(313, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(192, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(122, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(80, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(54, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(37, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(18, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(13, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(7, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0176 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 62/8192          744/98304    ( 0.8%) 
+brushsides             375/65536        3000/524288   ( 0.6%) 
+planes                 350/65536        7000/1310720  ( 0.5%) 
+vertexes              1271/65536       15252/786432   ( 1.9%) 
+nodes                  561/65536       17952/2097152  ( 0.9%) 
+texinfos               112/12288        8064/884736   ( 0.9%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  891/65536       49896/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              242/65536       13552/3670016  ( 0.4%) 
+facebrushes             14/0              28/0        ( 0.0%) 
+facebrushlists         891/0            3564/0        ( 0.0%) 
+leaves                 568/65536       18176/2097152  ( 0.9%) 
+leaffaces              955/65536        1910/131072   ( 1.5%) 
+leafbrushes            290/65536         580/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5144/512000      20576/2048000  ( 1.0%) 
+edges                 2723/256000      10892/1024000  ( 1.1%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            122/32768        1220/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1635/65536        3270/131072   ( 2.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1372220/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       17256/16777216 ( 0.1%) 
+entdata               [variable]        1660/393216   ( 0.4%) 
+LDR ambient table      568/65536        2272/262144   ( 0.9%) 
+HDR ambient table      568/65536        2272/262144   ( 0.9%) 
+LDR leaf ambient      2869/65536       80332/1835008  ( 4.4%) 
+HDR leaf ambient       568/65536       15904/1835008  ( 0.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/192      ( 0.5%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74430/0        ( 0.0%) 
+physics               [variable]       23567/4194304  ( 0.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 2396
+Writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+12 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.vmf
+Map revision 72
+Patching WVT material: maps/csgotest/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (938.00 402.00 1436.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (29682 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 196 texinfos to 170
+Reduced 8 texdatas to 7 (199 bytes to 178)
+Writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.prt
+LoadPortals: couldn't read c:\users\peer\desktop\sicherrung jan-maps\csgotest.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.vmf
+Map revision 74
+Patching WVT material: maps/csgotest/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (31799 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 199 texinfos to 171
+Reduced 9 texdatas to 8 (217 bytes to 196)
+Writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.prt
+ 279 portalclusters
+ 821 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 147 visible clusters (0.00%)
+Total clusters visible: 42544
+Average clusters visible: 152
+Building PAS...
+Average clusters audible: 278
+visdatasize:21919  compressed from 22320
+writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+1049 faces
+784551 square feet [112975408.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1049 patches before subdivision
+30935 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1340075, max 346
+transfer lists:  10.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(32890, 12589, 4735)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(10427, 1585, 237)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(4159, 238, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1840, 40, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(861, 7, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(432, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(233, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(130, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(81, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(50, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(35, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(23, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(17, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(12, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0194 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 82/8192          984/98304    ( 1.0%) 
+brushsides             498/65536        3984/524288   ( 0.8%) 
+planes                 454/65536        9080/1310720  ( 0.7%) 
+vertexes              1539/65536       18468/786432   ( 2.3%) 
+nodes                  604/65536       19328/2097152  ( 0.9%) 
+texinfos               171/12288       12312/884736   ( 1.4%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1049/65536       58744/3670016  ( 1.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              328/65536       18368/3670016  ( 0.5%) 
+facebrushes             10/0              20/0        ( 0.0%) 
+facebrushlists        1049/0            4196/0        ( 0.0%) 
+leaves                 611/65536       19552/2097152  ( 0.9%) 
+leaffaces             1174/65536        2348/131072   ( 1.8%) 
+leafbrushes            327/65536         654/131072   ( 0.5%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             6290/512000      25160/2048000  ( 1.2%) 
+edges                 3361/256000      13444/1024000  ( 1.3%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            134/32768        1340/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1797/65536        3594/131072   ( 2.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1485760/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       21919/16777216 ( 0.1%) 
+entdata               [variable]        1546/393216   ( 0.4%) 
+LDR ambient table      611/65536        2444/262144   ( 0.9%) 
+HDR ambient table      611/65536        2444/262144   ( 0.9%) 
+LDR leaf ambient      3142/65536       87976/1835008  ( 4.8%) 
+HDR leaf ambient       611/65536       17108/1835008  ( 0.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/192      ( 0.5%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74763/0        ( 0.0%) 
+physics               [variable]       31799/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 2880
+Writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+13 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.vmf
+Map revision 82
+Patching WVT material: maps/csgotest/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (34495 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 216 texinfos to 184
+Reduced 9 texdatas to 8 (217 bytes to 196)
+Writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.prt
+ 301 portalclusters
+ 881 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 158 visible clusters (0.00%)
+Total clusters visible: 49653
+Average clusters visible: 164
+Building PAS...
+Average clusters audible: 300
+visdatasize:25574  compressed from 24080
+writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+7 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+1110 faces
+790455 square feet [113825648.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1110 patches before subdivision
+31468 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1329451, max 353
+transfer lists:  10.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(33194, 12591, 4619)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(10786, 1609, 231)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(4393, 246, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1973, 42, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(938, 7, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(472, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(255, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(141, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(87, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(53, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(36, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(23, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(17, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(12, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0230 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 89/8192         1068/98304    ( 1.1%) 
+brushsides             542/65536        4336/524288   ( 0.8%) 
+planes                 484/65536        9680/1310720  ( 0.7%) 
+vertexes              1620/65536       19440/786432   ( 2.5%) 
+nodes                  640/65536       20480/2097152  ( 1.0%) 
+texinfos               184/12288       13248/884736   ( 1.5%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1110/65536       62160/3670016  ( 1.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              352/65536       19712/3670016  ( 0.5%) 
+facebrushes             10/0              20/0        ( 0.0%) 
+facebrushlists        1110/0            4440/0        ( 0.0%) 
+leaves                 647/65536       20704/2097152  ( 1.0%) 
+leaffaces             1245/65536        2490/131072   ( 1.9%) 
+leafbrushes            340/65536         680/131072   ( 0.5%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             6680/512000      26720/2048000  ( 1.3%) 
+edges                 3576/256000      14304/1024000  ( 1.4%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            135/32768        1350/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1848/65536        3696/131072   ( 2.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1524172/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       25574/16777216 ( 0.2%) 
+entdata               [variable]        2488/393216   ( 0.6%) 
+LDR ambient table      647/65536        2588/262144   ( 1.0%) 
+HDR ambient table      647/65536        2588/262144   ( 1.0%) 
+LDR leaf ambient      3260/65536       91280/1835008  ( 5.0%) 
+HDR leaf ambient       647/65536       18116/1835008  ( 1.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/192      ( 0.5%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74763/0        ( 0.0%) 
+physics               [variable]       34495/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 3052
+Writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+15 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.vmf
+Map revision 82
+Patching WVT material: maps/csgotest/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (34495 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 216 texinfos to 184
+Reduced 9 texdatas to 8 (217 bytes to 196)
+Writing C:\Users\Peer\Desktop\Sicherrung Jan-Maps\csgotest.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+reading c:\users\peer\desktop\sicherrung jan-maps\csgotest.prt
+ 301 portalclusters
+ 881 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 158 visible clusters (0.00%)
+Total clusters visible: 49653
+Average clusters visible: 164
+Building PAS...
+Average clusters audible: 300
+visdatasize:25574  compressed from 24080
+writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+8 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+1110 faces
+790455 square feet [113825648.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1110 patches before subdivision
+31468 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1329451, max 353
+transfer lists:  10.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(33194, 12592, 4619)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(10786, 1609, 231)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(4393, 246, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1973, 42, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(938, 7, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(472, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(255, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(141, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(87, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(53, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(36, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(23, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(17, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(12, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0252 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 89/8192         1068/98304    ( 1.1%) 
+brushsides             542/65536        4336/524288   ( 0.8%) 
+planes                 484/65536        9680/1310720  ( 0.7%) 
+vertexes              1620/65536       19440/786432   ( 2.5%) 
+nodes                  640/65536       20480/2097152  ( 1.0%) 
+texinfos               184/12288       13248/884736   ( 1.5%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1110/65536       62160/3670016  ( 1.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              352/65536       19712/3670016  ( 0.5%) 
+facebrushes             10/0              20/0        ( 0.0%) 
+facebrushlists        1110/0            4440/0        ( 0.0%) 
+leaves                 647/65536       20704/2097152  ( 1.0%) 
+leaffaces             1245/65536        2490/131072   ( 1.9%) 
+leafbrushes            340/65536         680/131072   ( 0.5%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             6680/512000      26720/2048000  ( 1.3%) 
+edges                 3576/256000      14304/1024000  ( 1.4%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            135/32768        1350/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1848/65536        3696/131072   ( 2.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1524172/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       25574/16777216 ( 0.2%) 
+entdata               [variable]        2488/393216   ( 0.6%) 
+LDR ambient table      647/65536        2588/262144   ( 1.0%) 
+HDR ambient table      647/65536        2588/262144   ( 1.0%) 
+LDR leaf ambient      3260/65536       91280/1835008  ( 5.0%) 
+HDR leaf ambient       647/65536       18116/1835008  ( 1.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/192      ( 0.5%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74763/0        ( 0.0%) 
+physics               [variable]       34495/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 3052
+Writing c:\users\peer\desktop\sicherrung jan-maps\csgotest.bsp
+15 seconds elapsed
